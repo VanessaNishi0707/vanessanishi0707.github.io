@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cardprofile.jpg
+image: img/gom/cardprofile.jpg
 title: "K-Pop Group Order Manager"
 date: 2023
 published: true
